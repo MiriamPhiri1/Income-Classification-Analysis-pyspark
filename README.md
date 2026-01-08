@@ -1,7 +1,7 @@
 # Income Classification using PySpark
 
 This project focuses on predicting an individual's income class based on demographic and socio-economic attributes using PySpark machine learning pipelines.  
-The work was completed as part of postgraduate coursework in Data Science.
+
 
 ## Objective
 To classify individuals into income classes using demographic, educational, and employment-related features.
